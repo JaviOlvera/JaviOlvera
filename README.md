@@ -5,27 +5,27 @@
 Comencé con Unity y C# con tan solo 10 años y he ido evolucionando desde entonces.
 Me apasionan diversas áreas de la informática como:
 
-- 🎮 Videojuegos
-- 📺 Motores gráficos
-- 📱 Aplicaciones móviles
-- 📰 Diseño web
-- 🌐 Bases de datos
-- 🤖 Inteligencia Artificial
+- 🎮 **Videojuegos**
+- 📺 **Motores gráficos**
+- 📱 **Aplicaciones móviles**
+- 📰 **Diseño web**
+- 🌐 **Bases de datos**
+- 🤖 **Inteligencia Artificial**
   
    _Entre otros..._
 
 
 Los lenguajes de programación que más controlo son:
 
-- C#
-- C++
-- JavaScript
-- CSS _(y HTML)_
-- PHP
+- **C#**
+- **C++**
+- **JavaScript**
+- **CSS** _(y HTML)_
+- **PHP**
 
 
 
-Entre mis proyectos se encuentran muchísimos videojuegos realizados en Unity (desde los 10 años hasta ahora). Estos son para ordenador, móviles, 2D, 3D, simples, con buenos gráficos, online, offline... He tocado todas las áreas que he podido :)
+Entre mis proyectos se encuentran muchísimos videojuegos realizados en Unity (desde los 10 años hasta ahora). Estos son para ordenador, para móviles, 2D, 3D, gráficos simples, gráficos realistas, online, offline... He tocado todas las áreas que he podido :)
 
 
 Externo a Unity he realizado diversos proyectos personales, destacando entre ellos:
