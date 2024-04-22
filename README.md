@@ -30,9 +30,9 @@ Entre mis proyectos se encuentran muchísimos videojuegos realizados en Unity (d
 
 Externo a Unity he realizado diversos proyectos personales, destacando entre ellos:
 
-- Mi **página web** mrnoupgames.com
+- Mi **página web** https://mrnoupgames.com
 
-- Mi **blog** programado desde cero mrnoupgames.com/devlog
+- Mi **blog** programado desde cero https://mrnoupgames.com/devlog
 
 - Mi **recreación desde cero de Minecraft** con su motor gráfico, físicas...
 
