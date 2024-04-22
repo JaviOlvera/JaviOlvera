@@ -29,7 +29,7 @@ Entre mis proyectos se encuentran muchísimos videojuegos realizados en Unity (d
 
 Externo a Unity he realizado diversos proyectos personales, destacando entre ellos:
 
-- Mi *página web* mrnoupgames.com
+- Mi **página web** mrnoupgames.com
 
 - Mi *blog* programado desde cero mrnoupgames.com/devlog
 
@@ -41,7 +41,7 @@ Externo a Unity he realizado diversos proyectos personales, destacando entre ell
 
 - Mi *proyecto de IA* para el cuaderno digital de mi instituto, que controla la organización de cases anuales.
 
-_Entre otros_
+  _Entre otros..._
 
 
 <!---
