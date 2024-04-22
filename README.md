@@ -2,8 +2,8 @@
 
 ### ¡Hola! Soy Javier y desde muy pequeño me apasiona la informática y programación.
 
-Comencé con Unity y C# con tan solo 10 años y he ido evolucionando desde entonces
-Me apasionan diversas áreas de la informática:
+Comencé con Unity y C# con tan solo 10 años y he ido evolucionando desde entonces.
+Me apasionan diversas áreas de la informática como:
 
 - 🎮 Videojuegos
 - 📺 Motores gráficos
@@ -29,9 +29,19 @@ Entre mis proyectos se encuentran muchísimos videojuegos realizados en Unity (d
 
 Externo a Unity he realizado diversos proyectos personales, destacando entre ellos:
 
-- Mi página web mrnoupgames.com
-- Mi devlog programado desde cero mrnoupgames.com/devlog
-- Mi recreación desde cero de Minecraft: motor gráfico, físicas...
+- Mi *página web* mrnoupgames.com
+
+- Mi *blog* programado desde cero mrnoupgames.com/devlog
+
+- Mi *recreación desde cero de Minecraft* con su motor gráfico, físicas...
+
+- Mi *plugin de Chrome* OlveraSec que establece un *control parental* sobre el ordenador.
+
+- Mi *trabajo de investigación* para el proyecto Investiga de la Fundación San Patricio sobre *Inteligencia Artificial*.
+
+- Mi *proyecto de IA* para el cuaderno digital de mi instituto, que controla la organización de cases anuales.
+
+_Entre otros_
 
 
 <!---
