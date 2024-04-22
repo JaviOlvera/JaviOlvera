@@ -10,6 +10,7 @@ Me apasionan diversas áreas de la informática como:
 - 📱 Aplicaciones móviles
 - 📰 Diseño web
 - 🌐 Bases de datos
+- 🤖 Inteligencia Artificial
   
    _Entre otros..._
 
