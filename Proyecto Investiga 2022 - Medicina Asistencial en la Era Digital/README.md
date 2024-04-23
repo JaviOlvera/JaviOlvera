@@ -1,5 +1,5 @@
-###PROYECTO INVESTIGA
-#Inteligencia Artificial aplicada a la Medicina - Javier Olvera Calderón
+#PROYECTO INVESTIGA
+###Inteligencia Artificial aplicada a la Medicina - Javier Olvera Calderón
 
 
 El proyecto Investiga, dirigido por la Fundación San Patricio, es un proyecto destinado a estudiantes de 16 años a los que incentivar su interés por distintos ámbitos de la ciencia.
