@@ -21,7 +21,7 @@ Los lenguajes de programación que más controlo son:
 - **C++**
 - **JavaScript**
 - **CSS** _(y HTML)_
-- **PHP**
+- **PHP** _(y SQL)_
 
 
 
