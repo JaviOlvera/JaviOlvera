@@ -45,7 +45,7 @@ Externo a Unity he realizado diversos proyectos personales, destacando entre ell
   _Entre otros..._
 
 
-  ¡Hecha un vistazo a mi <a href="https://mrnoupgames.com/portfolio/">portfolio</a> para saber más sobre mi!
+<b>¡Hecha un vistazo a mi <a href="https://mrnoupgames.com/portfolio/">portfolio</a> para saber más sobre mi!</b>
 
 
 <!---
