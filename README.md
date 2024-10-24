@@ -44,6 +44,8 @@ Externo a Unity he realizado diversos proyectos personales, destacando entre ell
 
   _Entre otros..._
 
+  ¡Hecha un vistazo a mi <a href="mrnoupgames.com">portfolio</a> para saber más sobre mi!
+
 
 <!---
 JaviOlvera/JaviOlvera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
