@@ -19,6 +19,7 @@ Los lenguajes de programación que más domino son:
 
 - **C#**
 - **C++**
+- **C**
 - **JavaScript**
 - **CSS** _(y HTML)_
 - **PHP** _(y SQL)_
