@@ -15,7 +15,7 @@ Me apasionan diversas áreas de la informática como:
    _Entre otros..._
 
 
-Los lenguajes de programación que más controlo son:
+Los lenguajes de programación que más domino son:
 
 - **C#**
 - **C++**
@@ -23,7 +23,7 @@ Los lenguajes de programación que más controlo son:
 - **CSS** _(y HTML)_
 - **PHP** _(y SQL)_
 
-
+<br>
 
 Entre mis proyectos se encuentran muchísimos videojuegos realizados en Unity (desde los 10 años hasta ahora). Estos son para ordenador, para móviles, 2D, 3D, gráficos simples, gráficos realistas, online, offline... He tocado todas las áreas que he podido :)
 
@@ -44,8 +44,8 @@ Externo a Unity he realizado diversos proyectos personales, destacando entre ell
 
   _Entre otros..._
 
-
-<b>¡Hecha un vistazo a mi <a href="https://mrnoupgames.com/portfolio/">portfolio</a> para saber más sobre mi!</b>
+<br>
+▶️<b>¡Hecha un vistazo a mi <a href="https://mrnoupgames.com/portfolio/">portfolio</a> para saber más sobre mi!</b>◀️
 
 
 <!---
