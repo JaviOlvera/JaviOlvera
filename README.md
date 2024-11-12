@@ -37,7 +37,7 @@ Externo a Unity he realizado diversos proyectos personales, destacando entre ell
 
 - Mi **recreación desde cero de Minecraft**, con su motor gráfico, físicas, mundo procedural...
 
-- Mi **plugin de Chrome**, OlveraSec, que establece un **control parental** sobre el ordenador.
+- Mi **plugin de Chrome**, <a href="https://github.com/JaviOlvera/MyMinecraft">OlveraSec</a>, que establece un **control parental** sobre el ordenador.
 
 - Mi **trabajo de investigación**, para el proyecto Investiga de la Fundación San Patricio, sobre **Inteligencia Artificial**.
 
