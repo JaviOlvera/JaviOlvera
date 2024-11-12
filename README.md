@@ -35,9 +35,9 @@ Externo a Unity he realizado diversos proyectos personales, destacando entre ell
 
 - Mi **blog** programado desde cero https://mrnoupgames.com/devlog
 
-- Mi **recreación desde cero de Minecraft**, con su motor gráfico, físicas, mundo procedural...
+- Mi <a href="https://github.com/JaviOlvera/MyMinecraft">recreación desde cero de Minecraft</a>, con su motor gráfico, físicas, mundo procedural...
 
-- Mi **plugin de Chrome**, <a href="https://github.com/JaviOlvera/MyMinecraft">OlveraSec</a>, que establece un **control parental** sobre el ordenador.
+- Mi **plugin de Chrome**, <a href="https://mrnoupgames.com/OlveraSec/">OlveraSec</a>, que establece un **control parental** sobre el ordenador.
 
 - Mi **trabajo de investigación**, para el <a href="https://github.com/JaviOlvera/Investiga-2022-Algoritmo-Aplicado-a-Medicina">Proyecto Investiga</a> de la Fundación San Patricio, sobre **Inteligencia Artificial** aplicada a la Medicina.
 
