@@ -1,9 +1,9 @@
 # Javier Olvera Calderón
 
-### ¡Hola! Soy Javier y desde muy pequeño me apasiona la informática y programación.
+### Hola, soy Javier, y desde joven me apasionan la informática y programación.
 
 Comencé con Unity y C# con tan solo 10 años y he ido evolucionando desde entonces.
-Me apasionan diversas áreas de la informática como:
+He trabajado diversas áreas de la informática como:
 
 - 🎮 **Videojuegos**
 - 📺 **Motores gráficos**
@@ -22,7 +22,7 @@ Los lenguajes de programación que más domino son:
 - **C**
 - **JavaScript**
 - **CSS** _(y HTML)_
-- **PHP** _(y SQL)_
+- **PHP y SQL**
 
 <br>
 
