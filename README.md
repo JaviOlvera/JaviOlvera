@@ -39,7 +39,7 @@ Externo a Unity he realizado diversos proyectos personales, destacando entre ell
 
 - Mi **plugin de Chrome**, <a href="https://github.com/JaviOlvera/MyMinecraft">OlveraSec</a>, que establece un **control parental** sobre el ordenador.
 
-- Mi **trabajo de investigación**, para el proyecto Investiga de la Fundación San Patricio, sobre **Inteligencia Artificial**.
+- Mi **trabajo de investigación**, para el <a href="https://github.com/JaviOlvera/Investiga-2022-Algoritmo-Aplicado-a-Medicina">Proyecto Investiga</a> de la Fundación San Patricio, sobre **Inteligencia Artificial** aplicada a la Medicina.
 
 - Mi **proyecto de IA** para el cuaderno digital de mi instituto, que controla la organización anual de las clases.
 
