@@ -43,6 +43,8 @@ Externo a Unity he realizado diversos proyectos personales, destacando entre ell
 
 - Mi **proyecto de IA** para el cuaderno digital de mi instituto, que controla la organización anual de las clases.
 
+- Mi puesto de **presidencia** de la asociación de videojuegos <a href="https://mrnoupgames.com/ucaindev/">UCAinDev</a> de la Escuela Superior de Ingeniería de la Universidad de Cádiz
+
   _Entre otros..._
 
 <br>
